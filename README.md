@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+👋 I am thrilled to showcase my latest full-stack web development project - Dev Overflow!
 
-## Getting Started
+🚀 **Why Dev Overflow?**
+Imagine a community where developers unite, share knowledge, and elevate their coding prowess. Dev Overflow is not just another platform; it's a thriving ecosystem built with cutting-edge technologies to foster collaboration, knowledge sharing, and an immersive user experience. 💡
 
-First, run the development server:
+**Discover the powerful features that define this application:**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🔐 **Secure Authentication:**
+  Robust authentication with Clerk offers email/password options and seamless social login with Google and GitHub.
+  
+- ❓ **Q&A System:**
+  Comprehensive markdown editor, upvote/downvote system, and AI-generated responses for engaging community interactions.
+  
+- 🌐 **Global Search:**
+  Efficient, server-side rendered search with automatic suggestions for questions, answers, tags, and users.
+  
+- 👥 **Community Features:**
+  Discover users on the Community page, manage saved questions in Collections, and explore questions by specific tags.
+  
+- 👤 **Profile Management:**
+  View and update user profiles, access Collections, and explore questions by tags.
+  
+- 🎨 **Sleek UI Design:**
+  Consistent, visually appealing interface with light, dark, and system modes for optimal user experience.
+  
+- 💼 **Job Page:**
+  Browse job openings based on location with country-specific filters.
+  
+- 🔍 **Smart Filtering:**
+  Filter questions/tags/answers/users by various criteria, including a comprehensive Recommendation system.
+  
+- 📖 **Pagination:**
+  User-friendly pagination at the bottom of every page for seamless browsing.
+  
+- 🏆 **Reputation and Badges:**
+  Earn reputation points and display badges on profiles for active engagement.
+  
+- 📊 **Efficient User Data Processing:**
+  Optimized performance using MongoDB's aggregation pipeline for efficient user data processing.
+  
+- 📝 **Form Handling:**
+  Smooth user input with React Hook Form and enhanced data integrity through validation with Zod.
+  
+- ⚒️ **Type Safety and Tooling:**
+  Robust codebase for enhanced type safety and maintainability.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Tech Stack 🛠️:**
+- Next.js 14 & React 18
+- TypeScript
+- MongoDB & Mongoose
+- Tailwind CSS & Shadcn UI
+- Clerk
+- React Hook Form & Zod
+- Prism.js & Query String
+- ESLint & Prettier
+- Vercel
